@@ -1,46 +1,47 @@
-# 💰 Personal Finance Dashboard
+# 💰 Finance Dashboard (Angular 17)
 
-A modern personal finance dashboard built with **Angular 17** and **Angular Material**, designed to help users track income, expenses, and visualize their financial habits over time.
+A personal finance management dashboard built with **Angular 17** and **Angular Material**. This project allows users to monitor income and expenses, view visual charts, and manage transactions — all in a sleek, responsive UI with dark mode support.
 
-## 🚀 Project Goals
+---
 
-This project was created to improve my skills in:
+## 🚀 Features
 
-- Angular component architecture and modular structure
-- Using Angular Material for sleek UI/UX
-- Integrating chart libraries for data visualization
-- Managing component state and form interactions
-- Building responsive layouts with dark mode support
-
-## 🧠 Key Features
-
-- 💼 Dashboard with income/expense overview
-- 📄 Transaction list with details
-- 📊 Interactive charts for spending analysis
+- ✅ Modern dashboard layout using Angular Material
+- 📄 Track and manage income/expense transactions
+- 📊 Visual analytics with charts
 - 🌙 Dark mode toggle
-- 🔄 Reusable Angular components
+- ⚙️ Reusable components and clean architecture
+- 📱 Fully responsive layout
+
+---
 
 ## 🛠️ Tech Stack
 
-- Angular 17
-- Angular Material
-- TypeScript
-- SCSS
+- **Angular 17**
+- **Angular Material**
+- **TypeScript**
+- **SCSS**
+
+---
 
 ## 📸 Screenshot
 
-![Dashboard Screenshot](https://your-screenshot-url.com)  
-<sub>Let me know if you need help uploading one</sub>
+![dashboard preview](https://your-screenshot-url.com)
+
+
+---
 
 ## 🌐 Live Demo
 
-👉 [Click to View Live](https://your-demo-link.netlify.app/)  
-<sub>I can help you deploy this to Netlify or Firebase in minutes.</sub>
+👉 [Coming Soon]  
+
+
+---
 
 ## 📁 How to Run Locally
 
 ```bash
-git clone https://github.com/Ultron-18/finance-dashboard-angular.git
-cd finance-dashboard-angular
+git clone https://github.com/Ultron-18/finance-dashboard.git
+cd finance-dashboard
 npm install
 ng serve
